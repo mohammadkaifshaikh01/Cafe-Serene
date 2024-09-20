@@ -25,8 +25,8 @@ Café Serene is more than just a website – it’s a digital representation of 
 ## 👥 Team Members
 
 - **Sumit Kumar Sahani (Team Lead)**
-- **Prakash Singh (Team Member)**
-- **Pradyumna Jadav (Team Member)**
+- **Mohammad Kaif (Team Member)**
+- **Farhan Ali Ansari (Team Member)**
 - **Rahul Rajeeven (Mentor)**
 
 ## 🚀 Getting Started
